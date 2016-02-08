@@ -16,7 +16,7 @@ import json
 import time
 from pprint import pprint
 
-API_TOKEN = 'YOUR TOKEN'
+API_TOKEN = '190586394:AAEeh0XyGlpynTN3ftl-JJ_rWhJ6lpRBOxo'
 
 bot = telebot.TeleBot(API_TOKEN)
 
